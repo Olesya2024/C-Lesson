@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pc\\Desktop\\програмирование\\01_CSHARP\\Lesson1\\Task1\\Task1.csproj": {}
+    "C:\\Users\\pc\\Desktop\\C sharp\\githab задания\\С#\\Lectures\\Lesson1-algoritm\\Task1\\Task1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pc\\Desktop\\програмирование\\01_CSHARP\\Lesson1\\Task1\\Task1.csproj": {
+    "C:\\Users\\pc\\Desktop\\C sharp\\githab задания\\С#\\Lectures\\Lesson1-algoritm\\Task1\\Task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc\\Desktop\\програмирование\\01_CSHARP\\Lesson1\\Task1\\Task1.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\Desktop\\C sharp\\githab задания\\С#\\Lectures\\Lesson1-algoritm\\Task1\\Task1.csproj",
         "projectName": "Task1",
-        "projectPath": "C:\\Users\\pc\\Desktop\\програмирование\\01_CSHARP\\Lesson1\\Task1\\Task1.csproj",
+        "projectPath": "C:\\Users\\pc\\Desktop\\C sharp\\githab задания\\С#\\Lectures\\Lesson1-algoritm\\Task1\\Task1.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc\\Desktop\\програмирование\\01_CSHARP\\Lesson1\\Task1\\obj\\",
+        "outputPath": "C:\\Users\\pc\\Desktop\\C sharp\\githab задания\\С#\\Lectures\\Lesson1-algoritm\\Task1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
