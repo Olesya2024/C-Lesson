@@ -1,0 +1,15 @@
+/home/codespace/C-Lesson/Seminars/Seminar1/Task1/bin/Debug/net8.0/Task1
+/home/codespace/C-Lesson/Seminars/Seminar1/Task1/bin/Debug/net8.0/Task1.deps.json
+/home/codespace/C-Lesson/Seminars/Seminar1/Task1/bin/Debug/net8.0/Task1.runtimeconfig.json
+/home/codespace/C-Lesson/Seminars/Seminar1/Task1/bin/Debug/net8.0/Task1.dll
+/home/codespace/C-Lesson/Seminars/Seminar1/Task1/bin/Debug/net8.0/Task1.pdb
+/home/codespace/C-Lesson/Seminars/Seminar1/Task1/obj/Debug/net8.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/home/codespace/C-Lesson/Seminars/Seminar1/Task1/obj/Debug/net8.0/Task1.AssemblyInfoInputs.cache
+/home/codespace/C-Lesson/Seminars/Seminar1/Task1/obj/Debug/net8.0/Task1.AssemblyInfo.cs
+/home/codespace/C-Lesson/Seminars/Seminar1/Task1/obj/Debug/net8.0/Task1.csproj.CoreCompileInputs.cache
+/home/codespace/C-Lesson/Seminars/Seminar1/Task1/obj/Debug/net8.0/Task1.sourcelink.json
+/home/codespace/C-Lesson/Seminars/Seminar1/Task1/obj/Debug/net8.0/Task1.dll
+/home/codespace/C-Lesson/Seminars/Seminar1/Task1/obj/Debug/net8.0/refint/Task1.dll
+/home/codespace/C-Lesson/Seminars/Seminar1/Task1/obj/Debug/net8.0/Task1.pdb
+/home/codespace/C-Lesson/Seminars/Seminar1/Task1/obj/Debug/net8.0/Task1.genruntimeconfig.cache
+/home/codespace/C-Lesson/Seminars/Seminar1/Task1/obj/Debug/net8.0/ref/Task1.dll
